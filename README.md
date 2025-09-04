@@ -86,21 +86,17 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
+<img width="552" height="396" alt="image" src="https://github.com/user-attachments/assets/df12d701-dd30-4c5f-ae41-d120210b46f5" />
 
-<img width="367" height="435" alt="image" src="https://github.com/user-attachments/assets/4edd70a3-2335-4743-9ae0-5285330c7183" />
-<img width="367" height="435" alt="image" src="https://github.com/user-attachments/assets/7cd2dcb1-ecd7-4813-9a1d-cb661cd84705" />
-
+<img width="552" height="396" alt="image" src="https://github.com/user-attachments/assets/3f254592-dcdf-4bbb-ae30-d84d62e9ef9c" />
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
-<img width="556" height="435" alt="image" src="https://github.com/user-attachments/assets/ebd04b24-841c-430a-8427-76aa32b8749d" />
-
+<img width="552" height="396" alt="image" src="https://github.com/user-attachments/assets/8a626766-c51d-40f4-af19-d1199924270f" />
 
 
 ### Histogram Equalization of Grayscale Image.
-<img width="1214" height="374" alt="image" src="https://github.com/user-attachments/assets/a8930e4a-c6c0-452b-906e-ff305f92253c" />
-
-
+<img width="1244" height="374" alt="image" src="https://github.com/user-attachments/assets/4914e3ab-175f-4699-a74f-1950cb38f8e1" />
 
 
 ## Result: 
