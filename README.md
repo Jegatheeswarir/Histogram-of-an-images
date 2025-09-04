@@ -92,7 +92,7 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
-<img width="552" height="396" alt="image" src="https://github.com/user-attachments/assets/8a626766-c51d-40f4-af19-d1199924270f" />
+<img width="578" height="426" alt="image" src="https://github.com/user-attachments/assets/ca076139-00b7-4253-87a5-711c1643c01d" />
 
 
 ### Histogram Equalization of Grayscale Image.
